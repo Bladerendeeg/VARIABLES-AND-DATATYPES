@@ -1,0 +1,11 @@
+console.log("Hello Winc Academy");
+let naam = 'Martijn';
+console.log(naam);
+console.log(4 + 4);
+console.log(4 - 4);
+console.log(4 * 4);
+console.log(4 / 4);
+console.log(4 % 4);
+console.log("4" + "4");
+let leeftijd = "48";
+console.log(typeof leeftijd);
